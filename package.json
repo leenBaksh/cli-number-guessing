@@ -1,6 +1,6 @@
 {
   "name": "@erazebakshi/cli-number-guessing",
-  "version": "1.0.1",
+  "version": "2.1.2",
   "description": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
@@ -11,8 +11,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "LeenBaksh",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
